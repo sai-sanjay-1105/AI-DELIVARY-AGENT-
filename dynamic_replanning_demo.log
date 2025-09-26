@@ -1,0 +1,50 @@
+2025-09-14 21:09:34,251 - INFO - ================================================================================
+2025-09-14 21:09:34,251 - INFO - STARTING DYNAMIC REPLANNING DEMONSTRATION
+2025-09-14 21:09:34,251 - INFO - ================================================================================
+2025-09-14 21:09:34,251 - INFO - Switched to planning strategy: astar_manhattan
+2025-09-14 21:09:34,251 - INFO - Added delivery task: urgent_package from Position(x=2, y=2) to Position(x=12, y=12)
+2025-09-14 21:09:34,251 - INFO - Added delivery task: standard_package from Position(x=4, y=4) to Position(x=10, y=10)
+2025-09-14 21:09:34,251 - INFO - Added delivery task: low_priority from Position(x=6, y=6) to Position(x=8, y=8)
+2025-09-14 21:09:34,252 - INFO - Demo Configuration:
+2025-09-14 21:09:34,252 - INFO -   Strategy: astar_manhattan
+2025-09-14 21:09:34,252 - INFO -   Max steps: 50
+2025-09-14 21:09:34,252 - INFO -   Environment: 15x15
+2025-09-14 21:09:34,252 - INFO -   Dynamic obstacles: 3
+2025-09-14 21:09:34,252 - INFO -   Tasks: 3
+2025-09-14 21:09:34,252 - INFO -     Task 1: urgent_package from Position(x=2, y=2) to Position(x=12, y=12) (priority: 3)
+2025-09-14 21:09:34,252 - INFO -     Task 2: standard_package from Position(x=4, y=4) to Position(x=10, y=10) (priority: 2)
+2025-09-14 21:09:34,253 - INFO -     Task 3: low_priority from Position(x=6, y=6) to Position(x=8, y=8) (priority: 1)
+2025-09-14 21:09:34,254 - INFO - Step 0: Environment state
+2025-09-14 21:09:34,254 - INFO -   Current time: 0
+2025-09-14 21:09:34,254 - INFO -   Dynamic obstacles: 3 at positions [Position(x=2, y=3), Position(x=8, y=2), Position(x=1, y=1)]
+2025-09-14 21:09:34,254 - INFO -   Agent position: Position(x=0, y=0)
+2025-09-14 21:09:34,254 - INFO -   Agent fuel: 100.00
+2025-09-14 21:09:34,254 - INFO -   Carrying packages: []
+2025-09-14 21:09:34,254 - INFO -   Completed deliveries: []
+2025-09-14 21:09:34,254 - INFO - Planned path to Position(x=2, y=2): 4 steps, cost: 4.00, planning time: 0.0000s
+2025-09-14 21:09:34,556 - INFO - Picked up package urgent_package
+2025-09-14 21:49:34,979 - INFO - ================================================================================
+2025-09-14 21:49:34,979 - INFO - STARTING DYNAMIC REPLANNING DEMONSTRATION
+2025-09-14 21:49:34,979 - INFO - ================================================================================
+2025-09-14 21:49:34,979 - INFO - Switched to planning strategy: astar_manhattan
+2025-09-14 21:49:34,979 - INFO - Added delivery task: urgent_package from Position(x=2, y=2) to Position(x=12, y=12)
+2025-09-14 21:49:34,979 - INFO - Added delivery task: standard_package from Position(x=4, y=4) to Position(x=10, y=10)
+2025-09-14 21:49:34,979 - INFO - Added delivery task: low_priority from Position(x=6, y=6) to Position(x=8, y=8)
+2025-09-14 21:49:34,979 - INFO - Demo Configuration:
+2025-09-14 21:49:34,979 - INFO -   Strategy: astar_manhattan
+2025-09-14 21:49:34,979 - INFO -   Max steps: 50
+2025-09-14 21:49:34,979 - INFO -   Environment: 15x15
+2025-09-14 21:49:34,979 - INFO -   Dynamic obstacles: 3
+2025-09-14 21:49:34,979 - INFO -   Tasks: 3
+2025-09-14 21:49:34,979 - INFO -     Task 1: urgent_package from Position(x=2, y=2) to Position(x=12, y=12) (priority: 3)
+2025-09-14 21:49:34,979 - INFO -     Task 2: standard_package from Position(x=4, y=4) to Position(x=10, y=10) (priority: 2)
+2025-09-14 21:49:34,979 - INFO -     Task 3: low_priority from Position(x=6, y=6) to Position(x=8, y=8) (priority: 1)
+2025-09-14 21:49:34,987 - INFO - Step 0: Environment state
+2025-09-14 21:49:34,987 - INFO -   Current time: 0
+2025-09-14 21:49:34,987 - INFO -   Dynamic obstacles: 3 at positions [Position(x=2, y=3), Position(x=8, y=2), Position(x=1, y=1)]
+2025-09-14 21:49:34,987 - INFO -   Agent position: Position(x=0, y=0)
+2025-09-14 21:49:34,987 - INFO -   Agent fuel: 100.00
+2025-09-14 21:49:34,987 - INFO -   Carrying packages: []
+2025-09-14 21:49:34,987 - INFO -   Completed deliveries: []
+2025-09-14 21:49:34,987 - INFO - Planned path to Position(x=2, y=2): 4 steps, cost: 4.00, planning time: 0.0000s
+2025-09-14 21:49:35,291 - INFO - Picked up package urgent_package

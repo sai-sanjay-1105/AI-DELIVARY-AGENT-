@@ -1,0 +1,131 @@
+2025-09-14 20:18:31,412 - INFO - Starting dynamic replanning demonstration
+2025-09-14 20:18:31,412 - INFO - Added delivery task: demo_package from (1,1) to (10,10)
+2025-09-14 20:18:31,412 - INFO - Step 0: Agent at (0,0), fuel: 40.0
+2025-09-14 20:18:31,412 - INFO - Planning new path...
+2025-09-14 20:18:31,412 - INFO - No more tasks to complete
+2025-09-14 20:18:31,412 - INFO - Simulation completed: 0 deliveries in 0 steps
+2025-09-14 20:18:31,412 - INFO - Final statistics: {'replanning_events': 0, 'deliveries_completed': 0, 'total_distance_traveled': 0.0, 'total_fuel_consumed': 0.0, 'total_planning_time': 0.0, 'simulation_steps': 0}
+2025-09-14 22:07:35,264 - INFO - Starting dynamic replanning demonstration
+2025-09-14 22:07:35,264 - INFO - Added delivery task: demo_package from (1,1) to (10,10)
+2025-09-14 22:07:35,264 - INFO - Step 0: Agent at (0,0), fuel: 40.0
+2025-09-14 22:07:35,264 - INFO - Planning new path...
+2025-09-14 22:07:35,264 - INFO - Planned path with 2 steps
+2025-09-14 22:07:35,264 - INFO - Step 1: Agent at (1,0), fuel: 39.0
+2025-09-14 22:07:35,264 - INFO - Step 2: Agent at (1,1), fuel: 38.0
+2025-09-14 22:07:35,273 - INFO - Planning new path...
+2025-09-14 22:07:35,273 - INFO - Planned path with 18 steps
+2025-09-14 22:07:35,273 - INFO - Step 3: Agent at (2,1), fuel: 37.0
+2025-09-14 22:07:35,273 - INFO - Step 4: Agent at (3,1), fuel: 36.0
+2025-09-14 22:07:35,273 - INFO - Step 5: Agent at (4,1), fuel: 35.0
+2025-09-14 22:07:35,273 - INFO - Step 6: Agent at (5,1), fuel: 34.0
+2025-09-14 22:07:35,273 - INFO - Step 7: Agent at (6,1), fuel: 33.0
+2025-09-14 22:07:35,273 - INFO - Step 8: Agent at (7,1), fuel: 32.0
+2025-09-14 22:07:35,273 - INFO - Step 9: Agent at (8,1), fuel: 31.0
+2025-09-14 22:07:35,273 - INFO - Step 10: Agent at (9,1), fuel: 30.0
+2025-09-14 22:07:35,273 - INFO - Step 11: Agent at (10,1), fuel: 29.0
+2025-09-14 22:07:35,273 - INFO - Step 12: Agent at (10,2), fuel: 28.0
+2025-09-14 22:07:35,273 - INFO - Step 13: Agent at (10,3), fuel: 27.0
+2025-09-14 22:07:35,273 - INFO - Step 14: Agent at (10,4), fuel: 26.0
+2025-09-14 22:07:35,273 - INFO - Step 15: Agent at (10,5), fuel: 25.0
+2025-09-14 22:07:35,273 - INFO - Step 16: Agent at (10,6), fuel: 24.0
+2025-09-14 22:07:35,273 - INFO - Step 17: Agent at (10,7), fuel: 23.0
+2025-09-14 22:07:35,273 - INFO - Step 18: Agent at (10,8), fuel: 22.0
+2025-09-14 22:07:35,273 - INFO - Step 19: Agent at (10,9), fuel: 21.0
+2025-09-14 22:07:35,273 - INFO - Step 20: Agent at (10,10), fuel: 20.0
+2025-09-14 22:07:35,273 - INFO - Planning new path...
+2025-09-14 22:07:35,273 - INFO - No more tasks to complete
+2025-09-14 22:07:35,273 - INFO - Simulation completed: 1 deliveries in 20 steps
+2025-09-14 22:07:35,273 - INFO - Final statistics: {'replanning_events': 0, 'deliveries_completed': 1, 'total_distance_traveled': 20.0, 'total_fuel_consumed': 20.0, 'total_planning_time': 0.0, 'simulation_steps': 0}
+2025-09-14 22:12:46,100 - INFO - Starting dynamic replanning demonstration
+2025-09-14 22:12:46,100 - INFO - Added delivery task: demo_package from (1,1) to (10,10)
+2025-09-14 22:12:46,100 - INFO - Step 0: Agent at (0,0), fuel: 40.0
+2025-09-14 22:12:46,100 - INFO - Planning new path...
+2025-09-14 22:12:46,101 - INFO - Planned path with 2 steps
+2025-09-14 22:12:46,101 - INFO - Step 1: Agent at (1,0), fuel: 39.0
+2025-09-14 22:12:46,101 - INFO - Step 2: Agent at (1,1), fuel: 38.0
+2025-09-14 22:12:46,101 - INFO - Planning new path...
+2025-09-14 22:12:46,102 - INFO - Planned path with 18 steps
+2025-09-14 22:12:46,102 - INFO - Step 3: Agent at (2,1), fuel: 37.0
+2025-09-14 22:12:46,102 - INFO - Step 4: Agent at (3,1), fuel: 36.0
+2025-09-14 22:12:46,102 - INFO - Step 5: Agent at (4,1), fuel: 35.0
+2025-09-14 22:12:46,102 - INFO - Step 6: Agent at (5,1), fuel: 34.0
+2025-09-14 22:12:46,102 - INFO - Step 7: Agent at (6,1), fuel: 33.0
+2025-09-14 22:12:46,102 - INFO - Step 8: Agent at (7,1), fuel: 32.0
+2025-09-14 22:12:46,102 - INFO - Step 9: Agent at (8,1), fuel: 31.0
+2025-09-14 22:12:46,102 - INFO - Step 10: Agent at (9,1), fuel: 30.0
+2025-09-14 22:12:46,102 - INFO - Step 11: Agent at (10,1), fuel: 29.0
+2025-09-14 22:12:46,103 - INFO - Step 12: Agent at (10,2), fuel: 28.0
+2025-09-14 22:12:46,103 - INFO - Step 13: Agent at (10,3), fuel: 27.0
+2025-09-14 22:12:46,103 - INFO - Step 14: Agent at (10,4), fuel: 26.0
+2025-09-14 22:12:46,103 - INFO - Step 15: Agent at (10,5), fuel: 25.0
+2025-09-14 22:12:46,103 - INFO - Step 16: Agent at (10,6), fuel: 24.0
+2025-09-14 22:12:46,103 - INFO - Step 17: Agent at (10,7), fuel: 23.0
+2025-09-14 22:12:46,103 - INFO - Step 18: Agent at (10,8), fuel: 22.0
+2025-09-14 22:12:46,103 - INFO - Step 19: Agent at (10,9), fuel: 21.0
+2025-09-14 22:12:46,103 - INFO - Step 20: Agent at (10,10), fuel: 20.0
+2025-09-14 22:12:46,103 - INFO - Planning new path...
+2025-09-14 22:12:46,103 - INFO - No more tasks to complete
+2025-09-14 22:12:46,103 - INFO - Simulation completed: 1 deliveries in 20 steps
+2025-09-14 22:12:46,103 - INFO - Final statistics: {'replanning_events': 0, 'deliveries_completed': 1, 'total_distance_traveled': 20.0, 'total_fuel_consumed': 20.0, 'total_planning_time': 0.0, 'simulation_steps': 0}
+2025-09-17 00:25:13,425 - INFO - Starting dynamic replanning demonstration
+2025-09-17 00:25:13,425 - INFO - Added delivery task: demo_package from (1,1) to (10,10)
+2025-09-17 00:25:13,425 - INFO - Step 0: Agent at (0,0), fuel: 40.0
+2025-09-17 00:25:13,425 - INFO - Planning new path...
+2025-09-17 00:25:13,425 - INFO - Planned path with 2 steps
+2025-09-17 00:25:13,425 - INFO - Step 1: Agent at (1,0), fuel: 39.0
+2025-09-17 00:25:13,425 - INFO - Step 2: Agent at (1,1), fuel: 38.0
+2025-09-17 00:25:13,426 - INFO - Planning new path...
+2025-09-17 00:25:13,426 - INFO - Planned path with 18 steps
+2025-09-17 00:25:13,426 - INFO - Step 3: Agent at (2,1), fuel: 37.0
+2025-09-17 00:25:13,427 - INFO - Step 4: Agent at (3,1), fuel: 36.0
+2025-09-17 00:25:13,427 - INFO - Step 5: Agent at (4,1), fuel: 35.0
+2025-09-17 00:25:13,427 - INFO - Step 6: Agent at (5,1), fuel: 34.0
+2025-09-17 00:25:13,427 - INFO - Step 7: Agent at (6,1), fuel: 33.0
+2025-09-17 00:25:13,427 - INFO - Step 8: Agent at (7,1), fuel: 32.0
+2025-09-17 00:25:13,427 - INFO - Step 9: Agent at (8,1), fuel: 31.0
+2025-09-17 00:25:13,427 - INFO - Step 10: Agent at (9,1), fuel: 30.0
+2025-09-17 00:25:13,427 - INFO - Step 11: Agent at (10,1), fuel: 29.0
+2025-09-17 00:25:13,427 - INFO - Step 12: Agent at (10,2), fuel: 28.0
+2025-09-17 00:25:13,427 - INFO - Step 13: Agent at (10,3), fuel: 27.0
+2025-09-17 00:25:13,428 - INFO - Step 14: Agent at (10,4), fuel: 26.0
+2025-09-17 00:25:13,428 - INFO - Step 15: Agent at (10,5), fuel: 25.0
+2025-09-17 00:25:13,428 - INFO - Step 16: Agent at (10,6), fuel: 24.0
+2025-09-17 00:25:13,428 - INFO - Step 17: Agent at (10,7), fuel: 23.0
+2025-09-17 00:25:13,428 - INFO - Step 18: Agent at (10,8), fuel: 22.0
+2025-09-17 00:25:13,428 - INFO - Step 19: Agent at (10,9), fuel: 21.0
+2025-09-17 00:25:13,428 - INFO - Step 20: Agent at (10,10), fuel: 20.0
+2025-09-17 00:25:13,428 - INFO - Planning new path...
+2025-09-17 00:25:13,428 - INFO - No more tasks to complete
+2025-09-17 00:25:13,428 - INFO - Simulation completed: 1 deliveries in 20 steps
+2025-09-17 00:25:13,428 - INFO - Final statistics: {'replanning_events': 0, 'deliveries_completed': 1, 'total_distance_traveled': 20.0, 'total_fuel_consumed': 20.0, 'total_planning_time': 0.0, 'simulation_steps': 0}
+2025-09-24 19:53:01,574 - INFO - Starting dynamic replanning demonstration
+2025-09-24 19:53:01,920 - INFO - Added delivery task: demo_package from (1,1) to (10,10)
+2025-09-24 19:53:01,920 - INFO - Step 0: Agent at (0,0), fuel: 40.0
+2025-09-24 19:53:01,920 - INFO - Planning new path...
+2025-09-24 19:53:01,920 - INFO - Planned path with 2 steps
+2025-09-24 19:53:01,920 - INFO - Step 1: Agent at (1,0), fuel: 39.0
+2025-09-24 19:53:01,920 - INFO - Step 2: Agent at (1,1), fuel: 38.0
+2025-09-24 19:53:01,924 - INFO - Planning new path...
+2025-09-24 19:53:01,926 - INFO - Planned path with 18 steps
+2025-09-24 19:53:01,927 - INFO - Step 3: Agent at (2,1), fuel: 37.0
+2025-09-24 19:53:01,927 - INFO - Step 4: Agent at (3,1), fuel: 36.0
+2025-09-24 19:53:01,928 - INFO - Step 5: Agent at (4,1), fuel: 35.0
+2025-09-24 19:53:01,929 - INFO - Step 6: Agent at (5,1), fuel: 34.0
+2025-09-24 19:53:01,930 - INFO - Step 7: Agent at (6,1), fuel: 33.0
+2025-09-24 19:53:01,931 - INFO - Step 8: Agent at (7,1), fuel: 32.0
+2025-09-24 19:53:01,931 - INFO - Step 9: Agent at (8,1), fuel: 31.0
+2025-09-24 19:53:01,932 - INFO - Step 10: Agent at (9,1), fuel: 30.0
+2025-09-24 19:53:01,934 - INFO - Step 11: Agent at (10,1), fuel: 29.0
+2025-09-24 19:53:01,936 - INFO - Step 12: Agent at (10,2), fuel: 28.0
+2025-09-24 19:53:01,937 - INFO - Step 13: Agent at (10,3), fuel: 27.0
+2025-09-24 19:53:01,940 - INFO - Step 14: Agent at (10,4), fuel: 26.0
+2025-09-24 19:53:01,942 - INFO - Step 15: Agent at (10,5), fuel: 25.0
+2025-09-24 19:53:01,942 - INFO - Step 16: Agent at (10,6), fuel: 24.0
+2025-09-24 19:53:01,944 - INFO - Step 17: Agent at (10,7), fuel: 23.0
+2025-09-24 19:53:01,957 - INFO - Step 18: Agent at (10,8), fuel: 22.0
+2025-09-24 19:53:01,958 - INFO - Step 19: Agent at (10,9), fuel: 21.0
+2025-09-24 19:53:01,965 - INFO - Step 20: Agent at (10,10), fuel: 20.0
+2025-09-24 19:53:01,968 - INFO - Planning new path...
+2025-09-24 19:53:01,970 - INFO - No more tasks to complete
+2025-09-24 19:53:01,972 - INFO - Simulation completed: 1 deliveries in 20 steps
+2025-09-24 19:53:01,974 - INFO - Final statistics: {'replanning_events': 0, 'deliveries_completed': 1, 'total_distance_traveled': 20.0, 'total_fuel_consumed': 20.0, 'total_planning_time': 0.0, 'simulation_steps': 0}
